@@ -1,12 +1,12 @@
 ---
 # Display name
-title: SeungHyeob-Lee(이승협)
+title: 이승협
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ""
+role: "전북대학교 컴퓨터공학부 학사생"
 
 # Status emoji
 status:
