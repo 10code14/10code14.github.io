@@ -8,68 +8,68 @@ main:
     url: /
     weight: 1
 
-      - parent: About Me
-        name: Notifications
-        url: notification
-        weight: 110
+  - parent: About Me
+    name: Notifications
+    url: notification
+    weight: 110
 
-      - parent: About Me
-        name: News
-        url: post
-        weight: 120
+  - parent: About Me
+    name: News
+    url: post
+    weight: 120
 
   - name: Skills
     url: /
     weight: 2
 
-      - parent: Skills
-        name: Notifications
-        url: notification
-        weight: 610
+  - parent: Skills
+    name: Notifications
+    url: notification
+    weight: 610
 
-      - parent: Skills
-        name: News
-        url: post
-        weight: 620
+  - parent: Skills
+    name: News
+    url: post
+    weight: 620
 
   - name: Projcets
     url: /
     weight: 3
 
-      - parent: Projcets
-        name: Notifications
-        url: notification
-        weight: 610
+  - parent: Projcets
+    name: Notifications
+    url: notification
+    weight: 610
 
-      - parent: Projcets
-        name: Notifications
-        url: notification
-        weight: 610
+  - parent: Projcets
+    name: Notifications
+    url: notification
+    weight: 610
 
   - name: Certifications
     url: /
     weight: 4
 
-      - parent: Certifications
-        name: Notifications
-        url: notification
-        weight: 610
+  - parent: Certifications
+    name: Notifications
+    url: notification
+    weight: 610
 
-      - parent: Certifications
-        name: Notifications
-        url: notification
-        weight: 610
+  - parent: Certifications
+    name: Notifications
+    url: notification
+    weight: 610
 
   - name: Contact
     url: /
     weight: 5
 
-      - parent: Contact
-        name: Notifications
-        url: notification
-        weight: 610
+  - parent: Contact
+    name: Notifications
+    url: notification
+    weight: 610
 
-      - parent: Contact
-        name: Notifications
-        url: notification
-        weight: 610
+  - parent: Contact
+    name: Notifications
+    url: notification
+    weight: 610
