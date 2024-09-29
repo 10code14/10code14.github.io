@@ -25,12 +25,12 @@ main:
   - parent: Skills
     name: Notifications
     url: notification
-    weight: 610
+    weight: 210
 
   - parent: Skills
     name: News
     url: post
-    weight: 620
+    weight: 220
 
   - name: Projcets
     url: /
@@ -39,12 +39,12 @@ main:
   - parent: Projcets
     name: Notifications
     url: notification
-    weight: 610
+    weight: 310
 
   - parent: Projcets
     name: Notifications
     url: notification
-    weight: 610
+    weight: 320
 
   - name: Certifications
     url: /
@@ -53,12 +53,12 @@ main:
   - parent: Certifications
     name: Notifications
     url: notification
-    weight: 610
+    weight: 410
 
   - parent: Certifications
     name: Notifications
     url: notification
-    weight: 610
+    weight: 420
 
   - name: Contact
     url: /
@@ -67,9 +67,9 @@ main:
   - parent: Contact
     name: Notifications
     url: notification
-    weight: 610
+    weight: 510
 
   - parent: Contact
     name: Notifications
     url: notification
-    weight: 610
+    weight: 520
