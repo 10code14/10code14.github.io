@@ -39,12 +39,12 @@ sections:
       cta_note:
         label: ""
 
-# Choose an optional background color, gradient, image, or video
-design:
-  background:
-    gradient_end: "#1976d2"
-    gradient_start: "#004ba0"
-    text_color_light: true
+        # Choose an optional background color, gradient, image, or video
+        design:
+          background:
+            gradient_end: "#1976d2"
+            gradient_start: "#004ba0"
+            text_color_light: true
   - block: markdown
     id: section-2
     content:
