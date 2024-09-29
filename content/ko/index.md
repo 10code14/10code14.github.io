@@ -1,6 +1,6 @@
 ---
 # Page title
-title: My page
+title: 시작 화면
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -9,8 +9,8 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Section 1
-      subtitle: A subtitle
+      title: Seunghyeop Lee, Department of Computer Engineering, Jeonbuk National University
+      subtitle: 전북대학교 컴퓨터공학부 학사 과정을 밟고 있는 이승협의 개인 사이트입니다.
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: markdown
     id: section-2
