@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ""
-    org_name: ""
-    description: "A highly-customizable Hugo blog theme powered by Wowchemy website builder."
+    org_name: "Seunghyeop Lee"
+    description: "Portfolio of Seunghyeop Lee, a bachelor’s student in computer engineering at Jeonbuk National University."
     twitter: "GetResearchDev"
   analytics:
     google_analytics: ""
