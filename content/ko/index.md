@@ -9,7 +9,7 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Seunghyeop Lee, Department of Computer Engineering, Jeonbuk National University
+      title: <title style="font-size:50%;">Seunghyeop Lee, Department of Computer Engineering, Jeonbuk National University </title>
       subtitle: 전북대학교 컴퓨터공학부 학사 과정을 밟고 있는 이승협의 개인 사이트입니다.
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: markdown
