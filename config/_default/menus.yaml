@@ -5,71 +5,76 @@
 
 main:
   - name: About Me
+    identifier: aboutme
     url: /
     weight: 1
 
-  - parent: About Me
+  - parent: aboutme
     name: Personal Info
     url: /
     weight: 110
 
-  - parent: About Me
+  - parent: aboutme
     name: My Story
     url: /
     weight: 120
 
   - name: Skills
+    identifier: skills
     url: /
     weight: 2
 
-  - parent: Skills
+  - parent: skills
     name: Programming Languages
     url: /
     weight: 210
 
-  - parent: Skills
+  - parent: skills
     name: Frameworks & Tools
     url: /
     weight: 220
 
   - name: Projcets
+    identifier: projects
     url: /
     weight: 3
 
-  - parent: Projcets
+  - parent: projects
     name: Featured Projects
     url: /
     weight: 310
 
-  - parent: Projcets
+  - parent: projects
     name: Other Projects
     url: /
     weight: 320
 
   - name: Certifications
+    identifier: certifi
     url: /
     weight: 4
 
-  - parent: Certifications
+  - parent: certifi
     name: Programming Certifications
     url: /
     weight: 410
 
-  - parent: Certifications
+  - parent: certifi
     name: Other Certifications
     url: /
     weight: 420
 
   - name: Contact
+    identifier: contact
     url: /
     weight: 5
 
-  - parent: Contact
+  - parent: contact
     name: Email
     url: /
     weight: 510
 
-  - parent: Contact
+  - parent: contact
     name: Social Media
     url: /
     weight: 520
