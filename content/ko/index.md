@@ -18,4 +18,10 @@ sections:
       title: Section 2
       subtitle: A subtitle
       text: Add your Section 2 content here...
+  - block: markdown
+    id: section-3
+    content:
+      title: Section 3
+      subtitle: A subtitle
+      text: Add your Section 3 content here...
 ---
