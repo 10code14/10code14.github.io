@@ -14,7 +14,7 @@ sections:
 
     
 
-      text: | ![Profile Picture](/static/images/test.png)
+      text: ![Profile Picture](/static/images/test.png)
       <span style="font-size:100%"> Name :이승협<br>전북대학교<br>컴퓨터공학부 학부생</span>
       # design:
       #   background:
