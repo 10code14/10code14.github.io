@@ -10,10 +10,8 @@ sections:
     id: section-1
     content:
       title: <span style="font-size:80%">Seunghyeop-Lee,<br>Department of Computer Engineering,<br>Jeonbuk National University</span>
-      subtitle: <span style="font-size:20px">전북대학교 컴퓨터공학부 학사 과정을 밟고 있는 이승협의 개인 사이트입니다.</span>
-      text: <div style="text-align:center;">
-  <span style="font-size:20px">Name: 이승협</span></div>
-
+      subtitle: <span style="font-size:20px">전북대학교 컴퓨터공학부 학사 과정을 밟고 있는 이승협의 개인 사이트입니다.
+      text: <span style="font-size:100%">Name:이승협</span>
       design:
         background:
           # Choose a color such as from https://html-color-codes.info
@@ -38,4 +36,20 @@ sections:
       title: Section 3
       subtitle: A subtitle
       text: Add your Section 3 content here...
+
+sections:
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+
+sections:
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---
