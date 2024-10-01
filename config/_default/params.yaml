@@ -10,8 +10,6 @@ appearance:
   theme_night: minimal
   font: native
   font_size: L
-  mode: light
-  color: blue
 
 # SEO
 
