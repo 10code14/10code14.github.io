@@ -10,11 +10,10 @@ sections:
     id: section-1
     content:
       title: <span style="font-size:80%">Seunghyeop-Lee,<br>Department of Computer Engineering,<br>Jeonbuk National University</span>
-      
+
       subtitle: <span style="font-size:20px">전북대학교 컴퓨터공학부 학사 과정을 밟고 있는 이승협의 자기 소개 사이트입니다</span>
 
-      text: 
-      현재 공기업 및 공공기관 전산직 진로를 생각하고 있으며, 진로 관련 준비를 하고 있습니다.
+      text: 현재 공기업 및 공공기관 전산직 진로를 준비 중입니다.
       # design:
       #   background:
       #     # Choose a color such as from https://html-color-codes.info
