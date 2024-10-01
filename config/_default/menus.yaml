@@ -71,7 +71,7 @@ main:
 
   - parent: contact
     name: Email
-    url: contact
+    url: contact/
     weight: 510
 
   - parent: contact
