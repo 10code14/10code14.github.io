@@ -71,10 +71,10 @@ main:
 
   - parent: contact
     name: Email
-    url: /
+    url: content\ko\contact\email\index.md
     weight: 510
 
   - parent: contact
     name: Social Media
-    url: /content/ko/contact/email
+    url: /
     weight: 520
