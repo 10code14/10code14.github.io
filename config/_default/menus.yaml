@@ -76,5 +76,5 @@ main:
 
   - parent: contact
     name: Social Media
-    url: /
+    url: /content/ko/contact/email
     weight: 520
