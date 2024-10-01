@@ -11,7 +11,9 @@ sections:
     content:
       title: <span style="font-size:80%">Seunghyeop-Lee,<br>Department of Computer Engineering,<br>Jeonbuk National University</span>
       subtitle: <span style="font-size:20px">전북대학교 컴퓨터공학부 학사 과정을 밟고 있는 이승협의 개인 사이트입니다.</span>
-      text: <span style="font-size:20px">Name:이승협</span>
+      text: <div style="text-align:center;">
+  <span style="font-size:20px">Name: 이승협</span></div>
+
       design:
         background:
           # Choose a color such as from https://html-color-codes.info
