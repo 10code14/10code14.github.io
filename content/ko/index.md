@@ -19,6 +19,11 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
 
+  - block: features
+    content:
+      title:
+      text: <br><span style="font-size:125%">test</span>
+
   - block: markdown
     id: section-2
     content:
