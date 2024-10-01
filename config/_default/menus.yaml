@@ -71,7 +71,7 @@ main:
 
   - parent: contact
     name: Email
-    url: content\ko\contact\email\index.md
+    url: contact
     weight: 510
 
   - parent: contact
