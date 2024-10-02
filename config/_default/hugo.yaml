@@ -10,6 +10,18 @@ baseURL: "https://github.com/10code14" # Website URL
 ## PAGE OPTIONS
 ############################
 
+ko:
+  languageCode: ko
+  languageName: Korean
+  contentDir: content/ko
+  weight: 1
+
+en:
+  languageCode: en-us
+  languageName: English
+  contentDir: content/en
+  weight: 2
+  
 cascade:
   # Blog post options
   - _target:
@@ -26,7 +38,7 @@ cascade:
 
 defaultContentLanguage: ko
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
