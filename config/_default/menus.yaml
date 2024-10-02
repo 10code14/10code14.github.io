@@ -70,7 +70,7 @@ main:
 
   - parent: contact
     name: Email
-    url:
+    url: contact
     weight: 510
 
   - parent: contact
