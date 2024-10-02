@@ -4,10 +4,17 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 이승협 | 전북대학교 컴퓨터공학부 # Website name
-baseURL: "https://github.com/10code14" # Website URL
+baseURL: 'https://10code14.github.io' # Website URL
 
 ############################
 ## PAGE OPTIONS
+############################
+
+
+
+
+############################
+## LANGUAGE
 ############################
 
 languages:
@@ -23,19 +30,6 @@ languages:
     contentDir: content/en
     weight: 2
 
-cascade:
-  # Blog post options
-  - _target:
-      path: /post/**
-    editable: true
-    reading_time: true
-    commentable: true
-    show_related: true
-    show_breadcrumb: true
-
-############################
-## LANGUAGE
-############################
 
 defaultContentLanguage: ko
 hasCJKLanguage: false
