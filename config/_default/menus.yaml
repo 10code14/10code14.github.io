@@ -70,7 +70,7 @@ main:
 
   - parent: contact
     name: Email
-    url: /ko/contact/index.md
+    url: /ko/contact
     weight: 510
 
   - parent: contact
