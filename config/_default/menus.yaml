@@ -14,26 +14,22 @@ main:
     url: /
     weight: 2
 
-  - name: Projcets
-    identifier: projects
+  - parent: skills
+    name: Programming Languages
     url: /
     weight: 3
+
+  - parent: skills
+    name: Frameworks & Tools
+    url: /
+    weight: 4
 
   - name: Certifications
     identifier: certifi
     url: /
-    weight: 4
+    weight: 5
 
   - name: Contact
     identifier: contact
-    weight: 5
-
-  - parent: contact
-    name: Email
     url: /contact/
     weight: 6
-
-  - parent: contact
-    name: Social Media
-    url: /
-    weight: 7
