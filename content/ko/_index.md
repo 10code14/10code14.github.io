@@ -27,8 +27,8 @@ sections:
         filename: test.png
 
       # Add your Hero text here
-      text: |-
-        <span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)</span>
+      text: |
+      <span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)</span>
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -36,7 +36,6 @@ sections:
   - block: slider
     content:
       slides:
-
         - title: <span style="font-size:80%">Code Maintenance and Development</span>
           content: <span style="font-size:80%">코드 유지보수 및 개발</span>
           align: center
