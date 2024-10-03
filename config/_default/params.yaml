@@ -95,9 +95,9 @@ features:
       index_name: ""
       show_logo: false
   map:
-    provider: ""
-    api_key: ""
-    zoom: 15
+    provider: "mapnik" # 지도 제공자로 mapnik 선택
+    api_key: "" # Mapnik는 API 키가 필요 없음
+    zoom: 15 # 줌 레벨 설정
 
 extensions:
   cms:
