@@ -28,7 +28,7 @@ sections:
 
       # Add your Hero text here
       text: |
-      <span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)</span>
+              <span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)</span>
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -65,7 +65,7 @@ sections:
             image:
               filename: slider3.jpg
               filters:
-                brightness: 0.4
+                brightness: 0.2
             position: center
             color: "#000"
 
