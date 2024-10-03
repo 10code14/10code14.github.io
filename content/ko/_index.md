@@ -36,6 +36,7 @@ sections:
   - block: slider
     content:
       slides:
+
         - title: <span style="font-size:80%">Code Maintenance and Development</span>
           content: <span style="font-size:80%">코드 유지보수 및 개발</span>
           align: center
@@ -48,7 +49,7 @@ sections:
             color: "#000"
 
         - title: <span style="font-size:80%">IT Infrastructure</span>
-          content: <span style="font-size:80%">IT 환경을 운영하고 관리하는 데 필요한 소프트웨어, 하드웨어, 서비스 및 IT 자원의 조합을 관리<span style="font-size:70%">
+          content: <span style="font-size:80%">IT 환경을 운영하고 관리하는 데 필요한 소프트웨어, 하드웨어, 서비스 및 IT 자원의 조합을 관리</span>
           align: center
           background:
             image:
@@ -72,10 +73,10 @@ sections:
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: "700px"
-      slide_width: "70px"
+      slide_width: "100px"
       is_fullscreen: false
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 3000
+      interval: 5000
 ---
