@@ -28,12 +28,7 @@ sections:
 
       # Add your Hero text here
       text: |-
-        <span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심사: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)</span>
-
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
+        <span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)</span>
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -104,7 +99,7 @@ sections:
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: "350px"
+      slide_height: "700px"
       slide_width: "100px"
       is_fullscreen: false
       # Automatically transition through slides?
