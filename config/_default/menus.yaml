@@ -30,7 +30,7 @@ main:
 
   - parent: contact
     name: Email
-    url: /ko/contact
+    url: /contact/
     weight: 6
 
   - parent: contact
