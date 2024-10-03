@@ -6,23 +6,13 @@
 main:
   - name: About Me
     identifier: aboutme
-    url: /
+    url: /ko
     weight: 1
 
   - name: Skills
     identifier: skills
     url: /
     weight: 2
-
-  - parent: skills
-    name: Programming Languages
-    url: /
-    weight: 210
-
-  - parent: skills
-    name: Frameworks & Tools
-    url: /
-    weight: 220
 
   - name: Projcets
     identifier: projects
@@ -37,3 +27,13 @@ main:
   - name: Contact
     identifier: contact
     weight: 5
+
+  - parent: contact
+    name: Email
+    url: /ko/contact
+    weight: 6
+
+  - parent: contact
+    name: Social Media
+    url: /
+    weight: 7
