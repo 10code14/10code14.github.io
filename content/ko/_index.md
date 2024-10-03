@@ -19,12 +19,21 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
 
-  - block: markdown
-    id: section-2
+  - block: hero
+    id: aboutme
     content:
-      title: Section 2
-      subtitle: A subtitle
-      text: Add your Section 2 content here...
+      image: "test.png" # 프로필 사진 경로
+      title: "Seunghyeop Lee"
+      subtitle: "Department of Computer Engineering, Jeonbuk National University"
+      text: |
+        학부 과정 동안 여러 프로젝트와 연구를 통해 프로그래밍 실력을 쌓았습니다. 
+        GitHub 및 LinkedIn을 통해 더 많은 정보를 확인해보세요.
+      cta:
+        - cta_text: "GitHub"
+          cta_link: "https://github.com/your-github-id"
+        - cta_text: "LinkedIn"
+          cta_link: "https://linkedin.com/in/your-linkedin-id"
+
   - block: markdown
     id: section-3
     content:
