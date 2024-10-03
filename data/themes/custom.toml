@@ -3,16 +3,16 @@ name = "Starter Blog"
 
 [light]
   # Primary
-  primary = "#cbe4f5"
+  primary = "#2962ff"
 
-  # Menudata
+  # Menu
   menu_primary = "rgb(247, 250, 252)"
   menu_text = "#34495e"
-  menu_text_active = "#cbe4f5"
+  menu_text_active = "#2962ff"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
+  home_section_odd = "rgb(50, 50, 50)"
   home_section_even = "rgb(247, 250, 252)"
 
 [dark]
