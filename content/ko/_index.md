@@ -36,40 +36,34 @@ sections:
   - block: slider
     content:
       slides:
-        - title: <span style="font-size:70%">Recruit</span>
-          content: <span style="font-size:70%">Interested in MacsLAB?</span>
+        - title: <span style="font-size:80%">Code Maintenance and Development</span>
+          content: <span style="font-size:80%">코드 유지보수 및 개발</span>
           align: center
           background:
             image:
-              filename: test.png
+              filename: slider1_code.jpg
               filters:
-                brightness: 0.4
-            position: center
-            color: "#000"
-          link:
-            icon: user
-            icon_pack: fas
-            text: <span style="font-size:60%">Join Us</span>
-            text-color: "#000"
-            url: contact
-
-        - title: <span style="font-size:70%">AI</span>
-          content: <span style="font-size:70%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:70%">
-          align: center
-          background:
-            image:
-              filename: test.png
-              filters:
-                brightness: 0.4
+                brightness: 0.2
             position: center
             color: "#000"
 
-        - title: <span style="font-size:70%">Healthcare</span>
-          content: <span style="font-size:70%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+        - title: <span style="font-size:80%">IT Infrastructure</span>
+          content: <span style="font-size:80%">IT 환경을 운영하고 관리하는 데 필요한 소프트웨어, 하드웨어, 서비스 및 IT 자원의 조합을 관리<span style="font-size:70%">
           align: center
           background:
             image:
-              filename: test.png
+              filename: slider2.jpg
+              filters:
+                brightness: 0.2
+            position: center
+            color: "#000"
+
+        - title: <span style="font-size:80%"> Web Development :: Front end</span>
+          content: <span style="font-size:80%">사용자가 해당 웹 사이트를 보고 상호 작용할 수 있도록 HTML, CSS 및 JavaScript를 사용하여 웹 사이트의 그래픽 사용자 인터페이스를 개발</span>
+          align: center
+          background:
+            image:
+              filename: slider3.jpg
               filters:
                 brightness: 0.4
             position: center
