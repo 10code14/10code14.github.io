@@ -28,7 +28,7 @@ sections:
 
       # Add your Hero text here
       text: |-
-        <span>소속: 전북대학교 컴퓨터공학부(2019 ~)<br>
+        <span>소속: 전북대학교(2019 ~)<br>
         <span>관심사: IT 인프라 / 유지보수<br>
         <span>전공: 컴퓨터공학부(2019 ~)</span>
 
