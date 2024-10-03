@@ -9,16 +9,6 @@ main:
     url: /
     weight: 1
 
-  - parent: aboutme
-    name: Personal Info
-    url: /
-    weight: 110
-
-  - parent: aboutme
-    name: My Story
-    url: /
-    weight: 120
-
   - name: Skills
     identifier: skills
     url: /
@@ -39,41 +29,11 @@ main:
     url: /
     weight: 3
 
-  - parent: projects
-    name: Featured Projects
-    url: /
-    weight: 310
-
-  - parent: projects
-    name: Other Projects
-    url: /
-    weight: 320
-
   - name: Certifications
     identifier: certifi
     url: /
     weight: 4
 
-  - parent: certifi
-    name: Programming Certifications
-    url: /
-    weight: 410
-
-  - parent: certifi
-    name: Other Certifications
-    url: /
-    weight: 420
-
   - name: Contact
     identifier: contact
     weight: 5
-
-  - parent: contact
-    name: Email
-    url: /ko/contact
-    weight: 510
-
-  - parent: contact
-    name: Social Media
-    url: /
-    weight: 520
