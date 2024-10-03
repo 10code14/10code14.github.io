@@ -28,9 +28,9 @@ sections:
 
       # Add your Hero text here
       text: |-
-        **소속 : ** 전북대학교 컴퓨터공학부(2019 ~)
-        **관심사 : ** IT Infrastructure/Maintenance in public enterprise
-        **전공 : ** 컴퓨터공학부(2019 ~)
+        <span>소속: 전북대학교 컴퓨터공학부(2019 ~)</span>
+        <span>관심사: IT 인프라 / 유지보수</span>
+        <span>전공: 컴퓨터공학부(2019 ~)</span>
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
@@ -39,8 +39,6 @@ sections:
     design:
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: "#000"
-        gradient_start: "#000"
         text_color_light: true
 
   - block: markdown
