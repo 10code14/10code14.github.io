@@ -50,9 +50,7 @@ sections:
             color: "#000"
 
         - title: <span style="font-size:80%">IT Infrastructure</span>
-          content: | 
-          <span style="font-size:80%">IT 환경을 운영하고 관리하는 데 필요한 소프트웨어, 하드웨어, 서비스 및
-          IT 자원의 조합을 관리</span>
+          content: <span style="font-size:80%">IT 환경을 운영하고 관리하는 데 필요한 소프트웨어, 하드웨어, 서비스 및<br>IT 자원의 조합을 관리</span>
           align: center
           background:
             image:
