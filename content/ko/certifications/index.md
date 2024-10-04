@@ -1,8 +1,12 @@
 ---
-title: My page
-type: landing
+title: Certifications
 
 sections:
+    design:
+      background:
+        image:
+          filename: "certif_img.jpg"
+          
   - block: features
     content:
       title: My Interests
@@ -35,4 +39,5 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
+
 ---
