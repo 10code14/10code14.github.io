@@ -7,24 +7,22 @@ banner:
   image: "certif_img.jpg"
 
 sections:
-  - block: markdown
-    content:
-
   - block: features
     content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
+      title: 취득 자격증 목록
+      subtitle: 공기업 및 공공기관 전산직 입사에 위해 아래와 같은 자격증들을 취득했습니다.
       items:
-        - name: R
-          description: 90%
+        - name: 한국사능력검정시험 1급
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: 컴퓨터 활용능력 1급
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: SQLD(SQL개발자)
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
+        - name: ADSP(데이터분석준전문가)
           description: 10%
           icon: camera-retro
           icon_pack: fas
