@@ -7,6 +7,9 @@ banner:
   image: "certif_img.jpg"
 
 sections:
+  - block: markdown
+    content:
+
   - block: features
     content:
       title: My Interests
