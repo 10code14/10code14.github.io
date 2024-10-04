@@ -1,13 +1,8 @@
 ---
 title: Certifications
 
-design:
-  background:
-    image:
-      filename: "certif_img.jpg"
-      position: center
-      size: cover
-      repeat: no-repeat
+banner:
+  image: "certif_img.jpg"
 
 sections:
   - block: features
