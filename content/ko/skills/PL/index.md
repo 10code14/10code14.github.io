@@ -6,6 +6,19 @@ type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
+  - block: markdown
+    id: section-1
+    content:
+      title: <span style="font-size:80%">Seunghyeop-Lee,<br>Department of Computer Engineering,<br>Jeonbuk National University</span>
+      subtitle: 전북대학교 컴퓨터공학부 학사 과정을 밟고 있는 이승협의 개인 사이트입니다.
+      text:
+      design:
+        background:
+          # Choose a color such as from https://html-color-codes.info
+          color: "navy"
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
+
   - block: slider
     content:
       slides:

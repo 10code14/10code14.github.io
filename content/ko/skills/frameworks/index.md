@@ -4,6 +4,10 @@ title: Programming Languages
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
+banner:
+  image: "framework.jpg"
+  caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
+
 # Your landing page sections - add as many different content blocks as you like
 sections:
   - block: slider
