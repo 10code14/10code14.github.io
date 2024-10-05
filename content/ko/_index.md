@@ -27,7 +27,7 @@ sections:
         filename: test.png
 
       # Add your Hero text here
-      text: '<span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)</span><br>'
+      text: '<span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)<br>경력 : 프로그래밍 중앙동아리 CPU 소속(2021~2022)</span>'
 
       cta:
         url: "https://github.com/10code14"
@@ -39,6 +39,9 @@ sections:
         url: "/uploads/resume.pdf" # 두 번째 링크의 URL
         label: Resume # 두 번째 버튼에 표시될 텍스트
 
+      text: '<span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)</span><br>'
+
+
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -46,8 +49,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: <span style="font-size:80%">Code Maintenance and Development</span>
-          content: <span style="font-size:80%">코드 유지보수 및 개발</span>
+        - title: Code Maintenance and Development
+          content: 코드 유지보수 및 개발
           align: center
           background:
             image:
@@ -57,8 +60,8 @@ sections:
             position: center
             color: "#000"
 
-        - title: <span style="font-size:80%">IT Infrastructure</span>
-          content: <span style="font-size:80%">IT 환경을 운영하고 관리하는 데 필요한 소프트웨어, 하드웨어, 서비스 및<br>IT 자원의 조합을 관리</span>
+        - title: IT Infrastructure
+          content: IT 환경을 운영하고 관리하는 데 필요한 소프트웨어, 하드웨어, 서비스 및 IT 자원의 조합을 관리
           align: center
           background:
             image:
@@ -68,8 +71,8 @@ sections:
             position: center
             color: "#000"
 
-        - title: '<span style="font-size:80%"> Web Development : Front end</span>'
-          content: <span style="font-size:80%">사용자가 해당 웹 사이트를 보고 상호 작용할 수 있도록 HTML, CSS 및 JavaScript를 사용하여 웹 사이트의 그래픽 사용자 인터페이스를 개발</span>
+        - title: Web Development : Front end
+          content: 사용자가 해당 웹 사이트를 보고 상호 작용할 수 있도록 HTML, CSS 및 JavaScript를 사용하여 웹 사이트의 그래픽 사용자 인터페이스를 개발
           align: center
           background:
             image:
