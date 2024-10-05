@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Programming Languages
+title: Frameworks
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -10,6 +10,12 @@ banner:
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
+  - block: markdown
+    id: section-1
+    content:
+      title: <span style="font-size:80%">Programming Languages</span>
+      subtitle: 프로그래밍 언어로 Python, JavaScript, SQL을 사용한 경험이 있습니다.
+
   - block: slider
     content:
       slides:

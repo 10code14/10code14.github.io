@@ -87,6 +87,7 @@ features:
       repo_id: ""
       category: ""
       category_id: ""
+      language_code: ko
   search:
     provider: wowchemy
     algolia:
