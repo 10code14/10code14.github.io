@@ -6,6 +6,13 @@
 title: 이승협 | 전북대학교 컴퓨터공학부 # Website name
 baseURL: "https://10code14.github.io" # Website URL
 
+cascade:
+  - _target:
+      path: "*"
+    show_breadcrumb: true
+    banner:
+      image: "header.jpg"
+
 ############################
 ## LANGUAGE
 ############################
