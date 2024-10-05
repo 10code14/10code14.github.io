@@ -1,6 +1,6 @@
 ---
 # Page title
-title: 시작 화면
+title: Home
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -10,7 +10,7 @@ sections:
     id: section-1
     content:
       title: Seunghyeop-Lee's portfolio site
-      subtitle: 전북대학교 컴퓨터공학부 학사 과정을 밟고 있는 이승협의 개인 사이트입니다.
+      subtitle: This is the personal site of Seunghyeop Lee, who is pursuing a bachelor's degree in computer engineering at Jeonbuk National University.
       text:
       design:
         background:
@@ -21,13 +21,13 @@ sections:
 
   - block: hero
     content:
-      title: 이승협
+      title: Seunghyeop Lee
       image:
         # Reference an image in your `assets/media/` folder
         filename: test.png
 
       # Add your Hero text here
-      text: '<span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)<br>경력 : 프로그래밍 중앙동아리 CPU 소속(2021~2022)<br></span>'
+      text: '<span style="font-size:80%">Affiliation: Jeonbuk National University(2019 ~)<br>Areas of Interest: IT Infrastructure / Maintenance<br>Major: Computer Engineering(2019 ~)<br>Career: Member of CPU, programming club(2021~2022)<br></span>'
 
       cta:
         url: "https://github.com/10code14"
@@ -47,7 +47,7 @@ sections:
     content:
       slides:
         - title: Code Maintenance and Development
-          content: 코드 유지보수 및 개발
+          content: Code Maintenance and Development
           align: center
           background:
             image:
@@ -58,7 +58,7 @@ sections:
             color: "#000"
 
         - title: IT Infrastructure
-          content: IT 환경을 운영하고 관리하는 데 필요한 소프트웨어, 하드웨어, 서비스 및 IT 자원의 조합을 관리
+          content: Manages the combination of software, hardware, services and IT resources required to operate and manage an IT environment.
           align: center
           background:
             image:
@@ -69,7 +69,7 @@ sections:
             color: "#000"
 
         - title: Web Development - Front end
-          content: 사용자가 해당 웹 사이트를 보고 상호 작용할 수 있도록 HTML, CSS 및 JavaScript를 사용하여 웹 사이트의 그래픽 사용자 인터페이스를 개발
+          content: Develop a graphical user interface for a website using HTML, CSS, and JavaScript so that users can view and interact with the website.
           align: center
           background:
             image:
