@@ -12,4 +12,4 @@ type: post
 # 대표 이미지
 featured: "/images/test.png"
 ---
-ㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+dfsdgsdgsdgdg
