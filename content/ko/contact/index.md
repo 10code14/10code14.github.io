@@ -4,6 +4,9 @@ date: 2024-10-01
 
 type: landing
 
+banner:
+  image: "framework.jpg"
+
 sections:
   - block: contact
     content:

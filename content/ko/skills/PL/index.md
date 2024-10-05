@@ -2,10 +2,6 @@
 title: Programming Languages
 type: landing
 
-banner:
-  caption: ""
-  image: "/images/framework.jpg"
-
 sections:
   - block: skills
     content:
