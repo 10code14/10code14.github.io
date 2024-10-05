@@ -4,7 +4,7 @@ type: landing
 
 banner:
   caption: ""
-  image: "certif_img.jpg"
+  image: "/images/framework.jpg"
 
 sections:
   - block: skills
