@@ -12,9 +12,32 @@ sections:
   - block: hero
     content:
       title: Github 협업 기능 연습
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: test.png
+
+      # Add your Hero text here
+      text: 협업에 필요한 Github 기초 기능을 익혔습니다.
+
+      cta:
+        url: "https://github.com/10code14/vscode-git"
+        label: Go
+        icon_pack: fab
+        icon: github
+
+  - block: hero
+    content:
+      title: Github 협업 기능 연습
+
+      # Add your Hero text here
+      text: 협업에 필요한 Github 기초 기능을 익혔습니다.
+
+      cta:
+        url: "https://github.com/10code14/vscode-git"
+        label: Go
+        icon_pack: fab
+        icon: github
+
+  - block: hero
+    content:
+      title: Github 협업 기능 연습
 
       # Add your Hero text here
       text: 협업에 필요한 Github 기초 기능을 익혔습니다.
