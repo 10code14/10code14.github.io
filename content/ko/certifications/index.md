@@ -14,7 +14,7 @@ sections:
       items:
         - name: 한국사능력검정시험 1급
           icon: shield-halved
-          icon_pack: fab
+          icon_pack: fas
         - name: 컴퓨터 활용능력 1급
           icon: chart-line
           icon_pack: fas
