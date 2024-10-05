@@ -36,8 +36,8 @@ sections:
         icon: github
 
       cta_alt:
-        url: "resume.pdf" # 두 번째 링크의 URL
-        label: View Documentation # 두 번째 버튼에 표시될 텍스트
+        url: "/uploads/resume.pdf" # 두 번째 링크의 URL
+        label: View PDF # 두 번째 버튼에 표시될 텍스트
 
     design:
       # Choose an optional background color, gradient, image, or video
