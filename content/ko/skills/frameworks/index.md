@@ -14,7 +14,7 @@ sections:
           align: center
           background:
             image:
-              filename: flask.jpg
+              filename: flask.png
               filters:
                 brightness: 0.2
             position: center
