@@ -71,7 +71,7 @@ sections:
             position: center
             color: "#000"
 
-        - title: Web Development : Front end
+        - title: Web Development - Front end
           content: 사용자가 해당 웹 사이트를 보고 상호 작용할 수 있도록 HTML, CSS 및 JavaScript를 사용하여 웹 사이트의 그래픽 사용자 인터페이스를 개발
           align: center
           background:
