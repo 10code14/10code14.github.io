@@ -40,12 +40,6 @@ sections:
         icon_pack: fas
         icon: file-pdf
 
-   - icon: cv
-    icon_pack: ai
-    link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
-
-      
-
     design:
       # Choose an optional background color, gradient, image, or video
       background:
