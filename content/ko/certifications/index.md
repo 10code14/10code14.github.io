@@ -13,7 +13,7 @@ sections:
       subtitle: 공기업 및 공공기관 전산직 입사에 위해 아래와 같은 자격증들을 취득했습니다.
       items:
         - name: 한국사능력검정시험 1급
-          icon: r-project
+          icon: shield-halved
           icon_pack: fab
         - name: 컴퓨터 활용능력 1급
           icon: chart-line
