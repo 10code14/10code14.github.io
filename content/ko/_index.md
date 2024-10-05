@@ -33,8 +33,8 @@ sections:
         label: GitHub
         icon_pack: fab
         icon: github
-      
-      cta:
+
+      cta_alt:
         url: "/static/uploads/resume.pdf"
         label: My resume.pdf
         icon_pack: fas
