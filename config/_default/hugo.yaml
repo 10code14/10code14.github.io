@@ -11,7 +11,7 @@ cascade:
       path: "*"
     show_breadcrumb: true
     banner:
-      image: "header.jpg"
+      image: "framework.jpg"
 
 ############################
 ## LANGUAGE
