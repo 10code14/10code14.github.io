@@ -19,7 +19,6 @@ sections:
           content: Python을 이용해 Flask 프레임워크와 함께 백엔드 개발을 해본 경험이 있습니다. 파이썬은 그 간결함과 확장성 덕분에 빠르게 프로토타입을 제작하거나 다양한 라이브러리를 활용해 복잡한 문제를 해결하는 데 도움이 되었습니다.
           align: center
           background:
-            caption: "Image credit: [**Unsplash**](https://unsplash.com/)"
             image:
               filename: Python.png
               filters:
