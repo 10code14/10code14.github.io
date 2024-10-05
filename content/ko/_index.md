@@ -27,7 +27,7 @@ sections:
         filename: test.png
 
       # Add your Hero text here
-      text: '<span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)<br>경력 : 프로그래밍 중앙동아리 CPU 소속(2021~2022)</span>'
+      text: '<span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)<br>경력 : 프로그래밍 중앙동아리 CPU 소속(2021~2022)</span><br>'
 
       cta:
         url: "https://github.com/10code14"
