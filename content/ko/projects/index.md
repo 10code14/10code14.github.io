@@ -37,7 +37,7 @@ sections:
 
   - block: hero
     content:
-      title: Software Engineering Team Project
+      title: 소프트웨어공학 팀프로젝트
 
       # Add your Hero text here
       text: 소프트웨어 공학 개념을 배우고 적용하기 위한 협업 프로젝트입니다.
