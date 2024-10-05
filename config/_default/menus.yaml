@@ -11,17 +11,16 @@ main:
 
   - name: Skills
     identifier: skills
-    url: /
     weight: 2
 
   - parent: skills
     name: Programming Languages
-    url: /
+    url: /skills/PL/
     weight: 3
 
   - parent: skills
     name: Frameworks & Tools
-    url: /
+    url: /skills/frameworks/
     weight: 4
 
   - name: Certifications
