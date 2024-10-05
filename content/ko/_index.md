@@ -33,8 +33,18 @@ sections:
         label: GitHub
         icon_pack: fab
         icon: github
+      
+      cta:
+        url: "/static/uploads/resume.pdf"
+        label: My resume.pdf
+        icon_pack: fas
+        icon: file-pdf
 
-      [Download Resume](/static/Resume.pdf)
+   - icon: cv
+    icon_pack: ai
+    link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
+
+      
 
     design:
       # Choose an optional background color, gradient, image, or video
