@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Certifications
 type: landing
 
 banner:
@@ -10,7 +10,7 @@ sections:
   - block: features
     content:
       title: 취득 자격증 목록
-      subtitle: 공기업 및 공공기관 전산직 입사에 위해 아래와 같은 자격증들을 취득했습니다.
+      subtitle: 공기업 및 공공기관 전산직 입사를 위해 아래와 같은 자격증들을 취득했습니다.
       items:
         - name: 한국사능력검정시험 1급
           icon: landmark
@@ -28,7 +28,7 @@ sections:
   - block: features
     content:
       title: 취득 예정 자격증
-      subtitle: 공기업 및 공공기관 전산직 입사에 위해 아래와 같은 자격증들을 취득할 예정입니다.
+      subtitle: 공기업 및 공공기관 전산직 입사를 위해 아래와 같은 자격증들을 취득할 예정입니다.
       items:
         - name: 정보처리기사
           icon: certificate
