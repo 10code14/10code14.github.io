@@ -8,7 +8,7 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: <span style="font-size:95%">저에게 문의사항이 있으시다면 아래 연락처로 문의 바랍니다.</span>
+      text: 저에게 문의사항이 있으시다면 아래 연락처로 문의 바랍니다.
       phone: 010-2540-6435
       email: jbfc1994@jbnu.ac.kr
       address:

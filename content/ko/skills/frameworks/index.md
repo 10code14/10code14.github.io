@@ -13,14 +13,14 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: <span style="font-size:80%">Programming Languages</span>
+      title: Programming Languages
       subtitle: 프로그래밍 언어로 Python, JavaScript, SQL을 사용한 경험이 있습니다.
 
   - block: slider
     content:
       slides:
-        - title: <span style="font-size:80%">Flask</span>
-          content: <span style="font-size:80%">Flask 프레임워크를 이용해 수강신청 시간표 계획 웹앱을 제작한 경험이 있습니다. Flask는 파이썬 기반의 웹 프레임워크로, 가볍고 빠르게 웹 애플리케이션을 개발할 수 있습니다. 주로 백엔드 API를 구축하고, HTML 템플릿을 통해 프론트엔드와 연동하는 방식으로 활용했습니다.</span>
+        - title: Flask
+          content: Flask 프레임워크를 이용해 수강신청 시간표 계획 웹앱을 제작한 경험이 있습니다. Flask는 파이썬 기반의 웹 프레임워크로, 가볍고 빠르게 웹 애플리케이션을 개발할 수 있습니다. 주로 백엔드 API를 구축하고, HTML 템플릿을 통해 프론트엔드와 연동하는 방식으로 활용했습니다.
           align: center
           background:
             image:
@@ -30,8 +30,8 @@ sections:
             position: center
             color: "#000"
 
-        - title: <span style="font-size:80%">Vue.js</span>
-          content: <span style="font-size:80%">Vue.js 프레임워크를 이용해 간단한 토이 프로젝트를 제작한 경험이 있습니다. Vue는 반응형 웹 애플리케이션 제작에 유용하며, 컴포넌트 기반 개발 방식 덕분에 유지보수가 용이합니다. 프론트엔드 부분에서 사용자의 입력을 즉각적으로 반영하는 데 중점을 두었습니다.</span>
+        - title: Vue.js
+          content: Vue.js 프레임워크를 이용해 간단한 토이 프로젝트를 제작한 경험이 있습니다. Vue는 반응형 웹 애플리케이션 제작에 유용하며, 컴포넌트 기반 개발 방식 덕분에 유지보수가 용이합니다. 프론트엔드 부분에서 사용자의 입력을 즉각적으로 반영하는 데 중점을 두었습니다.
           align: center
           background:
             image:
