@@ -32,3 +32,8 @@ main:
     identifier: contact
     url: /contact/
     weight: 6
+
+  - name: Projects
+    identifier: projects
+    url: /projects/
+    weight: 6
