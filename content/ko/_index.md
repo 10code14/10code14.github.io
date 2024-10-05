@@ -28,17 +28,19 @@ sections:
 
       # Add your Hero text here
       text: '<span style="font-size:80%">소속: 전북대학교(2019 ~)<br>관심분야: IT 인프라 / 유지보수<br>전공: 컴퓨터공학부(2019 ~)</span><br>'
-      cta:
-        url: "https://github.com/10code14"
-        label: GitHub
-        icon_pack: fab
-        icon: github
 
-      cta_alt:
-        url: "/static/uploads/resume.pdf"
-        label: My resume.pdf
-        icon_pack: fas
-        icon: file-pdf
+      cta_list:
+        cta:
+          url: "https://github.com/10code14"
+          label: GitHub
+          icon_pack: fab
+          icon: github
+
+        cta:
+          url: "/static/uploads/resume.pdf"
+          label: My resume.pdf
+          icon_pack: fas
+          icon: file-pdf
 
     design:
       # Choose an optional background color, gradient, image, or video
