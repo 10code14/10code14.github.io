@@ -5,28 +5,28 @@ type: landing
 sections:
   - block: features
     content:
-      title: 취득 자격증 목록
-      subtitle: 공기업 및 공공기관 전산직 입사를 위해 아래와 같은 자격증들을 취득했습니다.
+      title: List of acquired qualifications
+      subtitle: I acquired the following qualifications to apply for a job in IT at public corporations and public institutions.
       items:
-        - name: 한국사능력검정시험 1급
+        - name: Korean History Proficiency Test Level 1
           icon: landmark
           icon_pack: fas
-        - name: 컴퓨터 활용능력 1급
+        - name: Computer Proficiency Level 1
           icon: file-excel
           icon_pack: fas
-        - name: SQLD(SQL개발자)
+        - name: SQLD(SQL Developer)
           icon: database
           icon_pack: fas
-        - name: ADSP(데이터분석준전문가)
+        - name: ADSP(Data Analysis Associate Specialist)
           icon: chart-simple
           icon_pack: fas
 
   - block: features
     content:
-      title: 취득 예정 자격증
-      subtitle: 공기업 및 공공기관 전산직 입사를 위해 아래와 같은 자격증들을 취득할 예정입니다.
+      title: Qualifications to be acquired
+      subtitle: I plan to obtain the following qualifications in order to apply for a job in IT at a public corporation or public institution.
       items:
-        - name: 정보처리기사
+        - name: Information Processing Engineer
           icon: certificate
           icon_pack: fas
 

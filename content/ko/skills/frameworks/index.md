@@ -14,7 +14,7 @@ sections:
     id: section-1
     content:
       title: Programming Languages
-      subtitle: 프로그래밍 언어로 Python, JavaScript, SQL을 사용한 경험이 있습니다.
+      subtitle: 프레임워크로는 Flask, Vue.js를 사용한 경험이 있습니다.
 
   - block: slider
     content:

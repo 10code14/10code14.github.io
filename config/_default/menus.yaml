@@ -6,7 +6,7 @@
 main:
   - name: About Me
     identifier: aboutme
-    url: /en/_index.md
+    url: /index.md
     weight: 1
 
   - name: Skills
