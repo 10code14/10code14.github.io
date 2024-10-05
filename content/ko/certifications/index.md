@@ -32,9 +32,9 @@ sections:
       items:
         - name: 정보처리기사
           icon: certificate
-          icon_pack: fab
+          icon_pack: fas
 
         - name: TOEIC 850+
-          icon: arrawo-down-a-z
+          icon: arrow-down-a-z
           icon_pack: fas
 ---
