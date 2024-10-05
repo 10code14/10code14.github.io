@@ -31,7 +31,7 @@ sections:
       cta:
         url: "https://github.com/10code14"
         label: GitHub
-        icon_pack: fas
+        icon_pack: fab
         icon: github
 
     design:
