@@ -34,6 +34,8 @@ sections:
         icon_pack: fab
         icon: github
 
+      [Download Resume](/static/Resume.pdf)
+
     design:
       # Choose an optional background color, gradient, image, or video
       background:
