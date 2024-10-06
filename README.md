@@ -4,16 +4,15 @@ HUGO 라이브러리를 이용해 정적인 포트폴리오 웹사이트 제작
 
 ## 웹사이트 구성
 
-이 웹사이트는 다국어를 지원하며, ko 폴더 아래에 한국어 사이트, en 폴더 아래에 영어로 된 사이트가 담겨있습니다.
-폴더 아래에 있는 파일들은 언어를 제외하면 모두 똑같습니다.
+이 웹사이트는 다국어를 지원하며, ko 폴더 아래에 한국어 사이트, en 폴더 아래에 영어로 된 사이트가 담겨있습니다.  
+폴더 아래에 있는 파일, 코드들은 텍스트 언어를 제외하면 모두 똑같습니다.
 
-### Prerequisites
+아래 내용 부터는 ko 폴더 기준으로 설명
 
-What things you need to install the software and how to install them
+### 초기 화면(About me 메뉴)
 
-```
-Give examples
-```
+![alt text](rdme_aboutme.png)
+markdown 블록 / hero 블록 / slider 블록으로 구성되어있습니다.
 
 ### Installing
 
