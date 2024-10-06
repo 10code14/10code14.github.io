@@ -12,29 +12,14 @@ HUGO 라이브러리를 이용해 정적인 포트폴리오 웹사이트 제작
 ### 초기 화면(About me 메뉴)
 
 ![alt text](rdme_aboutme.png)
-markdown 블록 / hero 블록 / slider 블록으로 구성되어있습니다.
+markdown 블록 / hero 블록 / slider 블록으로 구성
 
-### Installing
+### Skills->Programming Languages 서브메뉴, Framworks & Tools 서브 메뉴
 
-A step by step series of examples that tell you how to get a development env running
+![alt text](rdme_PL.png)
+![alt text](image.png)
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+markdown 블록/ slider 블록으로 구성
 
 ### Break down into end to end tests
 
