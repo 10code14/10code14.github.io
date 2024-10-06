@@ -39,3 +39,7 @@ markdown 블록/ slider 블록으로 구성
 ![alt text](rdme_projects.png)
 
 3개의 hero 블록으로 이루어져 있으며 각 블록마다 프로젝트 이름 / 설명 / 깃허브 repository 링크 버튼 추가
+
+## 메모용 : fas, fab 아이콘 활용법
+
+https://fontawesome.com/ 에서 쓰고 싶은 아이콘을 찾고 vue 코드 -> Array Syntax 코드로 fas/fab, 아이콘 이름 확인 가능
