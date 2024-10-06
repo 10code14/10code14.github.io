@@ -1,10 +1,11 @@
-# Project Title
+# 포트폴리오 사이트 제작
 
-One Paragraph of project description goes here
+HUGO 라이브러리를 이용해 정적인 포트폴리오 웹사이트 제작
 
-## Getting Started
+## 웹사이트 구성
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+이 웹사이트는 다국어를 지원하며, ko 폴더 아래에 한국어 사이트, en 폴더 아래에 영어로 된 사이트가 담겨있습니다.
+폴더 아래에 있는 파일들은 언어를 제외하면 모두 똑같습니다.
 
 ### Prerequisites
 
