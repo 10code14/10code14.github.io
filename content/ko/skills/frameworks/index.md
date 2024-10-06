@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Frameworks
+title: Frameworks & Tools
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -13,7 +13,7 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Programming Languages
+      title: Frameworks & Tools
       subtitle: 프레임워크로는 Flask, Vue.js를 사용한 경험이 있습니다.
 
   - block: slider

@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Frameworks
+title: Frameworks & Tools
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -13,7 +13,7 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Programming Languages
+      title: Frameworks & Tools
       subtitle: I have experience with Flask and Vue.js.
 
   - block: slider
