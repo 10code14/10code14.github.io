@@ -9,64 +9,33 @@ HUGO 라이브러리를 이용해 정적인 포트폴리오 웹사이트 제작
 
 아래 내용 부터는 ko 폴더 기준으로 설명
 
-### 초기 화면(About me 메뉴)
+## 초기 화면(About me 메뉴)
 
 ![alt text](rdme_aboutme.png)
 markdown 블록 / hero 블록 / slider 블록으로 구성
 
-### Skills->Programming Languages 서브메뉴, Framworks & Tools 서브 메뉴
+## Skills->Programming Languages 서브메뉴, Framworks & Tools 서브 메뉴
 
 ![alt text](rdme_PL.png)
-![alt text](image.png)
+![alt text](rdme_framework.png)
 
 markdown 블록/ slider 블록으로 구성
 
-### Break down into end to end tests
+## Certifications
 
-Explain what these tests test and why
+![alt text](rdme_certifi.png)
 
-```
-Give an example
-```
+취득한 자격증, 취득할 자격증  
+2개의 features 블록으로 구성
 
-### And coding style tests
+## Contact
 
-Explain what these tests test and why
+![alt text](rdme_contact.png)
 
-```
-Give an example
-```
+1개의 contact block으로 이루어져 있으며, 이메일 / 전화번호 / 위치 / 지도를 표시함
 
-## Deployment
+## Projects
 
-Add additional notes about how to deploy this on a live system
+![alt text](rdme_projects.png)
 
-## Built With
-
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency Management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+3개의 hero 블록으로 이루어져 있으며 각 블록마다 프로젝트 이름 / 설명 / 깃허브 repository 링크 버튼 추가
